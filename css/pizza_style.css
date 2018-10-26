@@ -1,0 +1,68 @@
+/*================================================
+    Author: Rosalina Lash
+    
+==================================================*/
+
+html {
+	font-family: sans-serif;
+	font-size: 62.5%;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+body  {
+    background-image: url(../img/pizza1.jpg);
+  	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	display: block;
+	height: auto;
+	 
+	padding-bottom: 500px;
+	font-size: 14px;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+	
+h1 {
+	padding: 70px;
+    font-weight: 800;
+    font-size: 60px;
+	font-style: italic;
+    text-align: center;
+    color: #fff;
+	
+}
+
+
+.menu {
+	font-weight: bold;
+
+	}
+
+p {
+	color: #fff;
+	 font-weight: bold;
+}
+
+.modal-title {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.card {
+	opacity: .6;
+	transition: opacity .5s;
+	cursor: pointer;
+}
+
+.card:hover {
+	opacity: 1;
+}
+
+
+	
