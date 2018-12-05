@@ -13,15 +13,14 @@ html {
 
 body  {
     background-image: url(../img/pizza1.jpg);
-  	background-attachment: fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	width: 100%;
-	display: block;
-	height: auto;
-	 
+	height: cover;
+	background-position: center;
+	background-repeat:no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	background-position:center; 
 	padding-bottom: 500px;
 	font-size: 14px;
 	margin: 0;
